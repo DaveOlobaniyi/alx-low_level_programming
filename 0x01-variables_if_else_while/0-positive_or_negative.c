@@ -30,5 +30,3 @@ printf("%i is negative\n", n);
 }
 return (0);
 }
-^C
-C
