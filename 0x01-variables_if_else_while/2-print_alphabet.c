@@ -13,6 +13,6 @@ for (ch = 'a' ; ch <= 'z' ; ch++)
 {
 putchar(ch);
 }
-putchar('n\');
-return (0);
+putchar('\n');
+Return (0);
 }
